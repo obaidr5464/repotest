@@ -1,2 +1,1 @@
-STEPS to making new repo.
-;lklk;j;l
+STEPS to making new repo:1st i made a repo from the plus sighn on git hub then i named the repository and i went to the ide and initailized it and them commited it and made this file and then i added it and copy and pasted the git push command
